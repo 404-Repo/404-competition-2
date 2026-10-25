@@ -712,5 +712,59 @@
     "views": null,
     "failure_reason": "js_fetch_failed: HTTP 404",
     "size": 0
+  },
+  "4064492d0b5fd171704f7ac74680c406b0833b3f50473c72b4cbafdb8d675976": {
+    "js": null,
+    "views": null,
+    "failure_reason": "js_fetch_failed: HTTP 404",
+    "size": 0
+  },
+  "fa5ac2f8114482daf8b3b68d140a6e6deb7941614939ba3b596b07d1e30ca1cb": {
+    "js": null,
+    "views": null,
+    "failure_reason": "js_fetch_failed: HTTP 404",
+    "size": 0
+  },
+  "6011ca3dc66d2dd684beb21c6ce86279175ca8b7c5f22788cf2813def5d2d4b8": {
+    "js": "https://subnet404.xyz/rounds/58/5CaSHBrtPaueQgYqd5e5gC3fdnUsD8XaZ2UDSCKqdDSrwrMs/submitted/6011ca3dc66d2dd684beb21c6ce86279175ca8b7c5f22788cf2813def5d2d4b8.js",
+    "views": "https://subnet404.xyz/rounds/58/5CaSHBrtPaueQgYqd5e5gC3fdnUsD8XaZ2UDSCKqdDSrwrMs/submitted/6011ca3dc66d2dd684beb21c6ce86279175ca8b7c5f22788cf2813def5d2d4b8",
+    "failure_reason": null,
+    "size": 8045
+  },
+  "69805d65e9110b5796609a59082a2094b959758debd7e450856bb71ed80d0afa": {
+    "js": "https://subnet404.xyz/rounds/58/5CaSHBrtPaueQgYqd5e5gC3fdnUsD8XaZ2UDSCKqdDSrwrMs/submitted/69805d65e9110b5796609a59082a2094b959758debd7e450856bb71ed80d0afa.js",
+    "views": "https://subnet404.xyz/rounds/58/5CaSHBrtPaueQgYqd5e5gC3fdnUsD8XaZ2UDSCKqdDSrwrMs/submitted/69805d65e9110b5796609a59082a2094b959758debd7e450856bb71ed80d0afa",
+    "failure_reason": null,
+    "size": 13784
+  },
+  "4e9c9109425b71fe8835d7d0d2b405a990382db09c045ca2a0ca3a715bf33598": {
+    "js": null,
+    "views": null,
+    "failure_reason": "js_fetch_failed: HTTP 404",
+    "size": 0
+  },
+  "e494d0111c72618728f0b2f6f40b686214366966144bf205aabeea902d6f99c1": {
+    "js": null,
+    "views": null,
+    "failure_reason": "js_fetch_failed: HTTP 404",
+    "size": 0
+  },
+  "79a0054515e530282c9d3856726dc1a65587f7b4e77683fa9394440c75831d96": {
+    "js": "https://subnet404.xyz/rounds/58/5CaSHBrtPaueQgYqd5e5gC3fdnUsD8XaZ2UDSCKqdDSrwrMs/submitted/79a0054515e530282c9d3856726dc1a65587f7b4e77683fa9394440c75831d96.js",
+    "views": "https://subnet404.xyz/rounds/58/5CaSHBrtPaueQgYqd5e5gC3fdnUsD8XaZ2UDSCKqdDSrwrMs/submitted/79a0054515e530282c9d3856726dc1a65587f7b4e77683fa9394440c75831d96",
+    "failure_reason": null,
+    "size": 14163
+  },
+  "f9551dd3bf623bd17ca8a60bf10d3f3a398825cc972c5cc141bb6eb66d13c843": {
+    "js": null,
+    "views": null,
+    "failure_reason": "js_fetch_failed: HTTP 404",
+    "size": 0
+  },
+  "b9760b1b76c97f5ab26863bc16ca10874bf636e0bd409d6b3efcd82d1fdb7d83": {
+    "js": null,
+    "views": null,
+    "failure_reason": "js_fetch_failed: HTTP 404",
+    "size": 0
   }
 }
