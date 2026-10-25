@@ -260,8 +260,8 @@
       "4xH200"
     ],
     "tag": "084653f-threejs-58",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5gunecfuwt:084653f-threejs-58"
   },
   "5GgiozyDQZsBLXunwFF8AXLCBRpDh9qvaANneEJTog38DZt2": {
     "repo": "huypg-zenai/phung5",
@@ -271,8 +271,8 @@
       "4xH200"
     ],
     "tag": "ef709c0-threejs-58",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5ggiozydqz:ef709c0-threejs-58"
   },
   "5C7fUU3RE5iMsCtZqRedkZDQYobEMi7R7SeC8MqkRATm5uAN": {
     "repo": "huypg-zenai/phung6",
@@ -304,8 +304,8 @@
       "4xH200"
     ],
     "tag": "e4b41ec-threejs-58",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5ckxfpmpkk:e4b41ec-threejs-58"
   },
   "5HNbCuMPbS4hRMkxWRQb9gVVxhk6DkmHantG8Ac8fXoi94y5": {
     "repo": "huypg-zenai/phung9",
@@ -315,8 +315,8 @@
       "4xH200"
     ],
     "tag": "24e1659-threejs-58",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5hnbcumpbs:24e1659-threejs-58"
   },
   "5FRRJTEAyf5smLmADfzPr5QaxN84TpXFMNshjPTfaQ5GaKv1": {
     "repo": "computer-vision-ai-lab/jade-harrier-7",
@@ -337,8 +337,8 @@
       "4xH200"
     ],
     "tag": "9acdb95-threejs-58",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5gbj2p9twi:9acdb95-threejs-58"
   },
   "5HgqG9ihGN8LFhRwh5aN47DfBrGNckLrAWABZqt6gykEJgtZ": {
     "repo": "huypg-zenai/phung1",
@@ -348,8 +348,8 @@
       "4xH200"
     ],
     "tag": "8453816-threejs-58",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5hgqg9ihgn:8453816-threejs-58"
   },
   "5CaSHBrtPaueQgYqd5e5gC3fdnUsD8XaZ2UDSCKqdDSrwrMs": {
     "repo": "karvachiik-lgtm/jev58",
