@@ -1,0 +1,365 @@
+{
+  "5EcrCvTP1QsbuP5cRDpuLVonK5TvMPMFDV1gYo7FLco2oFUS": {
+    "repo": "mokabetrade/byte-orchard",
+    "commit": "69ca20741f149a269b7780837db2b3b086e42b2c",
+    "revealed_at_block": 9337701,
+    "hardware": [
+      "4xH200"
+    ],
+    "tag": "69ca207-threejs-58",
+    "status": "pending",
+    "docker_image": null
+  },
+  "5G22zS7xXNPyazGAawfH8zrGw2cwR1fDDtUi9tMAKWsUcvdN": {
+    "repo": "mokabetrade/solid-happiness",
+    "commit": "876e6f7818894a4daec4b81f5804f142b5484a5e",
+    "revealed_at_block": 9337701,
+    "hardware": [
+      "4xH200"
+    ],
+    "tag": "876e6f7-threejs-58",
+    "status": "pending",
+    "docker_image": null
+  },
+  "5H1grUKC32Wyq1JVZdKvJsM5vcQgWRv57TEBtmkH3i7nGK4u": {
+    "repo": "TuttiGenerator/quantum-chutes",
+    "commit": "bb584092399d12c2d1b429320387e5cc32511144",
+    "revealed_at_block": 9337701,
+    "hardware": [
+      "4xH200"
+    ],
+    "tag": "bb58409-threejs-58",
+    "status": "pending",
+    "docker_image": null
+  },
+  "5EA5rXrNhRyMHgmHU1gdEhgNqHecDt9MVyXEEiYpTYSB9vgX": {
+    "repo": "mokabetrade/animated-sniffle",
+    "commit": "2eb6fdde2ed5c601c658e35d56914142a045dede",
+    "revealed_at_block": 9337701,
+    "hardware": [
+      "4xH200"
+    ],
+    "tag": "2eb6fdd-threejs-58",
+    "status": "pending",
+    "docker_image": null
+  },
+  "5CwmaRVvvAqeETVuvKwtmmr2iqVd9NGqAsJnRWEorKyg4noR": {
+    "repo": "mokabetrade/refactored-fiesta",
+    "commit": "f10a50c0726dc2d974943e8d9268aac83d05ef4a",
+    "revealed_at_block": 9337701,
+    "hardware": [
+      "4xH200"
+    ],
+    "tag": "f10a50c-threejs-58",
+    "status": "in_progress",
+    "docker_image": null
+  },
+  "5D2vzzgaYq1c9NqyaWAjnK5xWDtrzJMjBeD6ar8W5q5sDh7p": {
+    "repo": "mokabetrade/silver-octo",
+    "commit": "39cbffdba87e134d589bdc529cf477ceea799761",
+    "revealed_at_block": 9337701,
+    "hardware": [
+      "4xH200"
+    ],
+    "tag": "39cbffd-threejs-58",
+    "status": "in_progress",
+    "docker_image": null
+  },
+  "5FCGYqThLseqGWdDXPuf4RsM8C5JhNAuDfnb1fo5pMW1uRPq": {
+    "repo": "mokabetrade/nebula-forge",
+    "commit": "3e55b97d0ebca9e8b0fad2662d933e3217b73ba5",
+    "revealed_at_block": 9337701,
+    "hardware": [
+      "4xH200"
+    ],
+    "tag": "3e55b97-threejs-58",
+    "status": "pending",
+    "docker_image": null
+  },
+  "5EvWt42rQy9sWXq5GkP6THgojKsVKemo7HZFBdjLBhpqgNSJ": {
+    "repo": "mokabetrade/pixel-harbor",
+    "commit": "47f09adbe523e026dacbf1e53f33b97aa9e02799",
+    "revealed_at_block": 9337701,
+    "hardware": [
+      "4xH200"
+    ],
+    "tag": "47f09ad-threejs-58",
+    "status": "pending",
+    "docker_image": null
+  },
+  "5CHvUfGBqrWLANVnMHkp1ayKTaKkTZwfA1v6WugcbP93RJ5Q": {
+    "repo": "Uglejo/kernel-drift",
+    "commit": "30db2f8eea192bf3897dce342d602525861e2e74",
+    "revealed_at_block": 9337702,
+    "hardware": [
+      "4xH200"
+    ],
+    "tag": "30db2f8-threejs-58",
+    "status": "in_progress",
+    "docker_image": null
+  },
+  "5DADu3QX3X2CeMkZEzxsHwF2annHoDwK2RT35Ra8NQ4cdJNq": {
+    "repo": "mokabetrade/orbit-scribe",
+    "commit": "faea94405db63a3d48db309ba4825432a53a032f",
+    "revealed_at_block": 9337714,
+    "hardware": [
+      "4xH200"
+    ],
+    "tag": "faea944-threejs-58",
+    "status": "pending",
+    "docker_image": null
+  },
+  "5GgHL6qNvPy5TCouht4fwrJUMiwd6oxePVGzZqg2n2Junr4U": {
+    "repo": "mokabetrade/cautious-journey",
+    "commit": "adc9a18adaef72b6f9beecc2e3e52b28afe1624a",
+    "revealed_at_block": 9337714,
+    "hardware": [
+      "4xH200"
+    ],
+    "tag": "adc9a18-threejs-58",
+    "status": "pending",
+    "docker_image": null
+  },
+  "5ExhiJkJubyzciUVj6j4CdLGCTqbbmGteCjJszhS14j1JbSa": {
+    "repo": "mokabetrade/quiet-lantern",
+    "commit": "04d112385c47608fad1a7398788d1504a22818ae",
+    "revealed_at_block": 9337714,
+    "hardware": [
+      "4xH200"
+    ],
+    "tag": "04d1123-threejs-58",
+    "status": "pending",
+    "docker_image": null
+  },
+  "5GTHnU4xjcpmtGZ9fgGkYjeAiVM7DC9fRVyYhbBZGjeGXN2x": {
+    "repo": "TuttiGenerator/zorbela",
+    "commit": "db6f0b45c9ae6a4fde629b1335098d05fc14fbe4",
+    "revealed_at_block": 9337714,
+    "hardware": [
+      "4xH200"
+    ],
+    "tag": "db6f0b4-threejs-58",
+    "status": "pending",
+    "docker_image": null
+  },
+  "5DXDsh3HMnqehu3n82ahxc8kPg6R4tYMcVTK3JmU4vbvjdEW": {
+    "repo": "Fluxmire/expert-spork-1",
+    "commit": "12392c06756eb8911df68b91234d9ef93fb3eea6",
+    "revealed_at_block": 9338754,
+    "hardware": [
+      "4xH200"
+    ],
+    "tag": "12392c0-threejs-58",
+    "status": "pending",
+    "docker_image": null
+  },
+  "5EkioErpseaAFBHojrKzymSXQ6fLBhMXJiRFmMBWjioR9zY8": {
+    "repo": "computer-vision-ai-lab/jade-harrier-1",
+    "commit": "97378a41086a2755271e74913b0ab0776b4d26d4",
+    "revealed_at_block": 9353290,
+    "hardware": [
+      "4xH200"
+    ],
+    "tag": "97378a4-threejs-58",
+    "status": "pending",
+    "docker_image": null
+  },
+  "5D4dUkdidiRRZ42uaRJ3i5j2PnS8mEEgtzLfxKuhUdYpHsNZ": {
+    "repo": "computer-vision-ai-lab/jade-harrier-2",
+    "commit": "0d2ca56ee15098181c1f8e990a07870a60c9ba86",
+    "revealed_at_block": 9353290,
+    "hardware": [
+      "4xH200"
+    ],
+    "tag": "0d2ca56-threejs-58",
+    "status": "in_progress",
+    "docker_image": null
+  },
+  "5E1wjmM7y8QF8sKm1NqqdTcBE21p6PkLNGhcNZSjNYE1wqRL": {
+    "repo": "computer-vision-ai-lab/jade-harrier-3",
+    "commit": "f9df6194d10f809fd4dd9ac320a46195b3cb65d2",
+    "revealed_at_block": 9353294,
+    "hardware": [
+      "4xH200"
+    ],
+    "tag": "f9df619-threejs-58",
+    "status": "pending",
+    "docker_image": null
+  },
+  "5C8PvZbFyRAtWL3z1e78NCye9KqrQyWUPom3mn7Lpo9Axru1": {
+    "repo": "computer-vision-ai-lab/jade-harrier-4",
+    "commit": "f0091cce36c20f58a148a50c1f940c18c8dcff5c",
+    "revealed_at_block": 9353298,
+    "hardware": [
+      "4xH200"
+    ],
+    "tag": "f0091cc-threejs-58",
+    "status": "in_progress",
+    "docker_image": null
+  },
+  "5F1BTPggEiw4FWNV8ENcSQL7sFFmFqyxBRhYLAjSM4XVip9D": {
+    "repo": "computer-vision-ai-lab/jade-harrier-5",
+    "commit": "d2693f0b68b150351f1f1aeb9061e77d28025991",
+    "revealed_at_block": 9353302,
+    "hardware": [
+      "4xH200"
+    ],
+    "tag": "d2693f0-threejs-58",
+    "status": "pending",
+    "docker_image": null
+  },
+  "5G1pQeo7c1pgtGYG6couzVVubnCTaDVdzfXCG8VRsL3NXjJ4": {
+    "repo": "mokabetrade/experiment_6",
+    "commit": "ec1fb970bbf574ba1f637b3c6333d0005278b513",
+    "revealed_at_block": 9354174,
+    "hardware": [
+      "4xH200"
+    ],
+    "tag": "ec1fb97-threejs-58",
+    "status": "pending",
+    "docker_image": null
+  },
+  "5CV4JwN8bVxQwArFiUqvDsibWiMsLiz8YW44yfo4KD3TmpZF": {
+    "repo": "TuttiGenerator/animated-copper",
+    "commit": "ef828f14bf0e79a4b915517dcd97156b19ca465c",
+    "revealed_at_block": 9354174,
+    "hardware": [
+      "4xH200"
+    ],
+    "tag": "ef828f1-threejs-58",
+    "status": "in_progress",
+    "docker_image": null
+  },
+  "5CnxA9q87uE4rkHqTfT4heV3wDXcpp4qyjRKd13Mm5UWv3iM": {
+    "repo": "Uglejo/code-furnace",
+    "commit": "f6b56899215bb889ade85d8dd07f0c9038ce0959",
+    "revealed_at_block": 9354182,
+    "hardware": [
+      "4xH200"
+    ],
+    "tag": "f6b5689-threejs-58",
+    "status": "in_progress",
+    "docker_image": null
+  },
+  "5GBa8JUKVCoNj74w3H4JPLtYX8XN6D2esZMQq3no8yQQmpJR": {
+    "repo": "TuttiGenerator/alekno",
+    "commit": "426d5078bb1fa6edd59e708c9a3108d52e646935",
+    "revealed_at_block": 9354182,
+    "hardware": [
+      "4xH200"
+    ],
+    "tag": "426d507-threejs-58",
+    "status": "pending",
+    "docker_image": null
+  },
+  "5GUNECfUwTFCgCbR5uppMS9PogXjCL4WJeKaAk7QWaqk9byz": {
+    "repo": "huypg-zenai/phung4",
+    "commit": "084653faecff0cab4532e7acac8bb660cdb731f6",
+    "revealed_at_block": 9356790,
+    "hardware": [
+      "4xH200"
+    ],
+    "tag": "084653f-threejs-58",
+    "status": "pending",
+    "docker_image": null
+  },
+  "5GgiozyDQZsBLXunwFF8AXLCBRpDh9qvaANneEJTog38DZt2": {
+    "repo": "huypg-zenai/phung5",
+    "commit": "ef709c07001e33ea00285e366f9085372542fff0",
+    "revealed_at_block": 9357034,
+    "hardware": [
+      "4xH200"
+    ],
+    "tag": "ef709c0-threejs-58",
+    "status": "pending",
+    "docker_image": null
+  },
+  "5C7fUU3RE5iMsCtZqRedkZDQYobEMi7R7SeC8MqkRATm5uAN": {
+    "repo": "huypg-zenai/phung6",
+    "commit": "aad8d4ae0f21071cf2b7e31bbbd53f4908e30919",
+    "revealed_at_block": 9357050,
+    "hardware": [
+      "4xH200"
+    ],
+    "tag": "aad8d4a-threejs-58",
+    "status": "in_progress",
+    "docker_image": null
+  },
+  "5DFGtwcMb5Zeva3KEEyGihaZoGoQPoDmZv25sZJupDvoFdio": {
+    "repo": "huypg-zenai/phung7",
+    "commit": "a789b0308db6b3a87c68b4a7e8068ab90be5806c",
+    "revealed_at_block": 9357062,
+    "hardware": [
+      "4xH200"
+    ],
+    "tag": "a789b03-threejs-58",
+    "status": "pending",
+    "docker_image": null
+  },
+  "5CkxFpMpkKNo1XZw1qaSixsZ9UqTW3jKH4kXuE5iaYRUAAEr": {
+    "repo": "huypg-zenai/phung8",
+    "commit": "e4b41ec24cb86a41bed1d349da845c278ed7ad69",
+    "revealed_at_block": 9357070,
+    "hardware": [
+      "4xH200"
+    ],
+    "tag": "e4b41ec-threejs-58",
+    "status": "in_progress",
+    "docker_image": null
+  },
+  "5HNbCuMPbS4hRMkxWRQb9gVVxhk6DkmHantG8Ac8fXoi94y5": {
+    "repo": "huypg-zenai/phung9",
+    "commit": "24e1659441f30d872eb2a04ccc98dcc0c051be54",
+    "revealed_at_block": 9357334,
+    "hardware": [
+      "4xH200"
+    ],
+    "tag": "24e1659-threejs-58",
+    "status": "pending",
+    "docker_image": null
+  },
+  "5FRRJTEAyf5smLmADfzPr5QaxN84TpXFMNshjPTfaQ5GaKv1": {
+    "repo": "computer-vision-ai-lab/jade-harrier-7",
+    "commit": "e760ad4f734cbc85b3a28e26c2db19d845ae7334",
+    "revealed_at_block": 9357890,
+    "hardware": [
+      "4xH200"
+    ],
+    "tag": "e760ad4-threejs-58",
+    "status": "pending",
+    "docker_image": null
+  },
+  "5Gbj2P9tWivPoXdTQ2vezh3jU6kNFKUdREWAE4usrnUqzqmZ": {
+    "repo": "huypg-zenai/phung2",
+    "commit": "9acdb95219416d2f1b0316f0fb630200d9b83c66",
+    "revealed_at_block": 9357962,
+    "hardware": [
+      "4xH200"
+    ],
+    "tag": "9acdb95-threejs-58",
+    "status": "pending",
+    "docker_image": null
+  },
+  "5HgqG9ihGN8LFhRwh5aN47DfBrGNckLrAWABZqt6gykEJgtZ": {
+    "repo": "huypg-zenai/phung1",
+    "commit": "84538161f98b414d58ddd79cea56b4bdbba2632a",
+    "revealed_at_block": 9357984,
+    "hardware": [
+      "4xH200"
+    ],
+    "tag": "8453816-threejs-58",
+    "status": "pending",
+    "docker_image": null
+  },
+  "5CaSHBrtPaueQgYqd5e5gC3fdnUsD8XaZ2UDSCKqdDSrwrMs": {
+    "repo": "karvachiik-lgtm/jev58",
+    "commit": "de3388a463e2ccd17c924315f0f49ce1bedf0f16",
+    "revealed_at_block": 9359084,
+    "hardware": [
+      "4xH200"
+    ],
+    "tag": "de3388a-threejs-58",
+    "status": "in_progress",
+    "docker_image": null
+  }
+}
