@@ -1,0 +1,16 @@
+{
+  "miner-58-leader-0-r1": {
+    "pod_id": "miner-58-leader-0",
+    "repeat_index": 1,
+    "provider": "runpod",
+    "batch_times": [
+      1414.7304651990416,
+      1300.349480991019,
+      1214.589548371965,
+      1193.8384442329989
+    ],
+    "total_generation_time": 5123.5079387950245,
+    "termination_reason": "completed",
+    "payload": null
+  }
+}
