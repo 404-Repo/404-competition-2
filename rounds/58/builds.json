@@ -7,7 +7,7 @@
       "4xH200"
     ],
     "tag": "69ca207-threejs-58",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5G22zS7xXNPyazGAawfH8zrGw2cwR1fDDtUi9tMAKWsUcvdN": {
@@ -40,7 +40,7 @@
       "4xH200"
     ],
     "tag": "2eb6fdd-threejs-58",
-    "status": "pending",
+    "status": "failure",
     "docker_image": null
   },
   "5CwmaRVvvAqeETVuvKwtmmr2iqVd9NGqAsJnRWEorKyg4noR": {
@@ -51,7 +51,7 @@
       "4xH200"
     ],
     "tag": "f10a50c-threejs-58",
-    "status": "in_progress",
+    "status": "failure",
     "docker_image": null
   },
   "5D2vzzgaYq1c9NqyaWAjnK5xWDtrzJMjBeD6ar8W5q5sDh7p": {
@@ -62,7 +62,7 @@
       "4xH200"
     ],
     "tag": "39cbffd-threejs-58",
-    "status": "in_progress",
+    "status": "failure",
     "docker_image": null
   },
   "5FCGYqThLseqGWdDXPuf4RsM8C5JhNAuDfnb1fo5pMW1uRPq": {
@@ -73,7 +73,7 @@
       "4xH200"
     ],
     "tag": "3e55b97-threejs-58",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5EvWt42rQy9sWXq5GkP6THgojKsVKemo7HZFBdjLBhpqgNSJ": {
@@ -84,7 +84,7 @@
       "4xH200"
     ],
     "tag": "47f09ad-threejs-58",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5CHvUfGBqrWLANVnMHkp1ayKTaKkTZwfA1v6WugcbP93RJ5Q": {
@@ -95,7 +95,7 @@
       "4xH200"
     ],
     "tag": "30db2f8-threejs-58",
-    "status": "in_progress",
+    "status": "failure",
     "docker_image": null
   },
   "5DADu3QX3X2CeMkZEzxsHwF2annHoDwK2RT35Ra8NQ4cdJNq": {
@@ -106,7 +106,7 @@
       "4xH200"
     ],
     "tag": "faea944-threejs-58",
-    "status": "pending",
+    "status": "failure",
     "docker_image": null
   },
   "5GgHL6qNvPy5TCouht4fwrJUMiwd6oxePVGzZqg2n2Junr4U": {
@@ -128,7 +128,7 @@
       "4xH200"
     ],
     "tag": "04d1123-threejs-58",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5GTHnU4xjcpmtGZ9fgGkYjeAiVM7DC9fRVyYhbBZGjeGXN2x": {
@@ -150,7 +150,7 @@
       "4xH200"
     ],
     "tag": "12392c0-threejs-58",
-    "status": "pending",
+    "status": "failure",
     "docker_image": null
   },
   "5EkioErpseaAFBHojrKzymSXQ6fLBhMXJiRFmMBWjioR9zY8": {
@@ -161,7 +161,7 @@
       "4xH200"
     ],
     "tag": "97378a4-threejs-58",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5D4dUkdidiRRZ42uaRJ3i5j2PnS8mEEgtzLfxKuhUdYpHsNZ": {
@@ -172,8 +172,8 @@
       "4xH200"
     ],
     "tag": "0d2ca56-threejs-58",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5d4dukdidi:0d2ca56-threejs-58"
   },
   "5E1wjmM7y8QF8sKm1NqqdTcBE21p6PkLNGhcNZSjNYE1wqRL": {
     "repo": "computer-vision-ai-lab/jade-harrier-3",
@@ -183,7 +183,7 @@
       "4xH200"
     ],
     "tag": "f9df619-threejs-58",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5C8PvZbFyRAtWL3z1e78NCye9KqrQyWUPom3mn7Lpo9Axru1": {
@@ -194,8 +194,8 @@
       "4xH200"
     ],
     "tag": "f0091cc-threejs-58",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5c8pvzbfyr:f0091cc-threejs-58"
   },
   "5F1BTPggEiw4FWNV8ENcSQL7sFFmFqyxBRhYLAjSM4XVip9D": {
     "repo": "computer-vision-ai-lab/jade-harrier-5",
@@ -205,7 +205,7 @@
       "4xH200"
     ],
     "tag": "d2693f0-threejs-58",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5G1pQeo7c1pgtGYG6couzVVubnCTaDVdzfXCG8VRsL3NXjJ4": {
@@ -227,8 +227,8 @@
       "4xH200"
     ],
     "tag": "ef828f1-threejs-58",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5cv4jwn8bv:ef828f1-threejs-58"
   },
   "5CnxA9q87uE4rkHqTfT4heV3wDXcpp4qyjRKd13Mm5UWv3iM": {
     "repo": "Uglejo/code-furnace",
@@ -238,8 +238,8 @@
       "4xH200"
     ],
     "tag": "f6b5689-threejs-58",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5cnxa9q87u:f6b5689-threejs-58"
   },
   "5GBa8JUKVCoNj74w3H4JPLtYX8XN6D2esZMQq3no8yQQmpJR": {
     "repo": "TuttiGenerator/alekno",
@@ -293,7 +293,7 @@
       "4xH200"
     ],
     "tag": "a789b03-threejs-58",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5CkxFpMpkKNo1XZw1qaSixsZ9UqTW3jKH4kXuE5iaYRUAAEr": {
@@ -359,7 +359,7 @@
       "4xH200"
     ],
     "tag": "de3388a-threejs-58",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5cashbrtpa:de3388a-threejs-58"
   }
 }
