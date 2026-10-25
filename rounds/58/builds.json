@@ -282,8 +282,8 @@
       "4xH200"
     ],
     "tag": "aad8d4a-threejs-58",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5c7fuu3re5:aad8d4a-threejs-58"
   },
   "5DFGtwcMb5Zeva3KEEyGihaZoGoQPoDmZv25sZJupDvoFdio": {
     "repo": "huypg-zenai/phung7",
@@ -293,8 +293,8 @@
       "4xH200"
     ],
     "tag": "a789b03-threejs-58",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5dfgtwcmb5:a789b03-threejs-58"
   },
   "5CkxFpMpkKNo1XZw1qaSixsZ9UqTW3jKH4kXuE5iaYRUAAEr": {
     "repo": "huypg-zenai/phung8",
