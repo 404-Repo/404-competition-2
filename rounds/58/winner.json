@@ -1,0 +1,9 @@
+{
+  "winner_hotkey": "5D4dUkdidiRRZ42uaRJ3i5j2PnS8mEEgtzLfxKuhUdYpHsNZ",
+  "repo": "computer-vision-ai-lab/jade-harrier-2",
+  "commit": "0d2ca56ee15098181c1f8e990a07870a60c9ba86",
+  "docker_image": "europe-west3-docker.pkg.dev/gen-456515/active-competition/5d4dukdidi:0d2ca56-threejs-58",
+  "hardware": [
+    "4xH200"
+  ]
+}
